@@ -160,7 +160,7 @@ mean(no_na_steps$steps)
 ## [1] 10766.19
 ```
 
-The mean is different, the median remains the same. 
+The median is now different from the dataset that had the NAs. The mean does remain the same.
 
 
 ### Finally, compare activity patterns between Weekday and Weekend
